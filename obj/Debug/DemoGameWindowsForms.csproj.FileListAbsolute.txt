@@ -1,0 +1,10 @@
+C:\Users\mgkuk\source\repos\DemoGameWindowsForms\bin\Debug\DemoGameWindowsForms.exe.config
+C:\Users\mgkuk\source\repos\DemoGameWindowsForms\bin\Debug\DemoGameWindowsForms.exe
+C:\Users\mgkuk\source\repos\DemoGameWindowsForms\bin\Debug\DemoGameWindowsForms.pdb
+C:\Users\mgkuk\source\repos\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.csproj.AssemblyReference.cache
+C:\Users\mgkuk\source\repos\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.Form1.resources
+C:\Users\mgkuk\source\repos\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.Properties.Resources.resources
+C:\Users\mgkuk\source\repos\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.csproj.GenerateResource.cache
+C:\Users\mgkuk\source\repos\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\mgkuk\source\repos\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.exe
+C:\Users\mgkuk\source\repos\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.pdb
