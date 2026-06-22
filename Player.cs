@@ -10,18 +10,11 @@ namespace DemoGameWindowsForms
     {
         public Player(Vector position) : base(position)
         {
-            Speed = 40;
+            Speed = 60;
 
             string projectRoot = Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\.."));
             string fullImagePath = Path.Combine(projectRoot, "Resources", "Player.png");
-            PictureBox = new PictureBox
-            {
-                Image = Image.FromFile(fullImagePath),
-                SizeMode = PictureBoxSizeMode.AutoSize,
-                BorderStyle = BorderStyle.None,
-                Visible = true,
-                Location = new System.Drawing.Point(10, 10)
-            };
+            Texture = Image.FromFile(fullImagePath);
         }
 
         public override void Update(float deltaTime)
@@ -53,9 +46,9 @@ namespace DemoGameWindowsForms
             base.Update(deltaTime);
         }
 
-        public override void Render()
+        public override void Render(Graphics g)
         {
-            base.Render();
+            base.Render(g);
         }
     }
 }

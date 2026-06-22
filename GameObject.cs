@@ -15,7 +15,8 @@ namespace DemoGameWindowsForms
         public Vector MovementDirection;
         public Vector Velocity;
         public double Speed;
-        public PictureBox PictureBox;
+        public Image Texture;
+        public float RotationDegrees;
 
         public GameObject(Vector position)
         {
@@ -23,18 +24,24 @@ namespace DemoGameWindowsForms
             MovementDirection = Globals.Zero;
             Velocity = Globals.Zero;
             Speed = 1;
+            RotationDegrees = 0f;
         }
 
         public virtual void Update(float deltaTime)
         {
             Velocity = MovementDirection * Speed;
             Position += Velocity * deltaTime;
-            PictureBox.Location = new System.Drawing.Point((int)Position.X, (int)Position.Y);
+            //Texture.
         }
 
-        public virtual void Render()
+        public virtual void Render(Graphics g)
         {
+            if (Texture == null)
+            {
+                return;
+            }
 
+            g.DrawImage(Texture, (float)Position.X, (float)Position.Y, Texture.Width, Texture.Height);
         }
     }
 }

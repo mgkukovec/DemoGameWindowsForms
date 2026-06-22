@@ -46,8 +46,13 @@ namespace DemoGameWindowsForms
             Globals.PreviousTickTime = now;
 
             _game.Update(Globals.DeltaTime);
-            //_game.Render();
-            //Invalidate();
+            Invalidate(); // request a repaint, which will call OnPaint
+        }
+
+        protected override void OnPaint(PaintEventArgs e)
+        {
+            base.OnPaint(e);
+            _game.Render(e.Graphics);
         }
     }
 }

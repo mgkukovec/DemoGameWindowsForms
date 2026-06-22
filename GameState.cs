@@ -21,29 +21,21 @@ namespace DemoGameWindowsForms
             _form = form;
             _factory = new GameObjectFactory(p => _form.Controls.Add(p));
 
-            SpawnPlayer();
-            //Enemies.Add(new Enemy(300, 200));
+            Player = _factory.CreatePlayer(new System.Windows.Vector(10, 10));
         }
 
         public void Update(float deltaTime)
         {
-            Player.Update(deltaTime);
+            Player?.Update(deltaTime);
 
-            //foreach (var e in Enemies)
-            //    e.Update(Player);
+            // Enemies
         }
 
         public void Render(Graphics g)
         {
-            //Player.Draw(g);
-            //foreach (var e in Enemies)
-            //    e.Draw(g);
-        }
+            Player?.Render(g);
 
-        private void SpawnPlayer()
-        {
-            Player = new Player(new System.Windows.Vector(20, 20));
-            _form.Controls.Add(Player.PictureBox);
+            // Enemies
         }
     }
 

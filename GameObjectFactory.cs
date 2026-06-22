@@ -10,17 +10,17 @@ namespace DemoGameWindowsForms
 {
     public class GameObjectFactory
     {
-        private readonly Action<PictureBox> addControl;
+        //private readonly Action<PictureBox> addControl;
 
         public GameObjectFactory(Action<PictureBox> addControl)
         {
-            this.addControl = addControl;
+            //this.addControl = addControl;
         }
 
         public Player CreatePlayer(Vector position)
         {
-            var p = new Player(position);
-            addControl(p.PictureBox);
+            Player p = new Player(position);
+            //addControl(p.PictureBox);
             return p;
         }
     }
