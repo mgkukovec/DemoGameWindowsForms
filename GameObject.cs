@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,6 +15,7 @@ namespace DemoGameWindowsForms
         public Vector MovementDirection;
         public Vector Velocity;
         public double Speed;
+        public PictureBox PictureBox;
 
         public GameObject(Vector position)
         {
@@ -27,6 +29,7 @@ namespace DemoGameWindowsForms
         {
             Velocity = MovementDirection * Speed;
             Position += Velocity * deltaTime;
+            PictureBox.Location = new System.Drawing.Point((int)Position.X, (int)Position.Y);
         }
 
         public virtual void Render()

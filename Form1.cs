@@ -19,7 +19,7 @@ namespace DemoGameWindowsForms
             InitializeComponent();
             DoubleBuffered = true;
 
-            _game = new GameState();
+            _game = new GameState(this);
 
             //Timer timer = new Timer();
             //timer.Interval = 16;

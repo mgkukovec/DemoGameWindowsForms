@@ -8,3 +8,14 @@ C:\Users\mgkuk\source\repos\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.
 C:\Users\mgkuk\source\repos\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.csproj.CoreCompileInputs.cache
 C:\Users\mgkuk\source\repos\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.exe
 C:\Users\mgkuk\source\repos\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.pdb
+C:\Users\mikeku\Documents\GitHub\DemoGameWindowsForms\bin\Debug\DemoGameWindowsForms.exe.config
+C:\Users\mikeku\Documents\GitHub\DemoGameWindowsForms\bin\Debug\DemoGameWindowsForms.exe
+C:\Users\mikeku\Documents\GitHub\DemoGameWindowsForms\bin\Debug\DemoGameWindowsForms.pdb
+C:\Users\mikeku\Documents\GitHub\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.csproj.AssemblyReference.cache
+C:\Users\mikeku\Documents\GitHub\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.Form1.resources
+C:\Users\mikeku\Documents\GitHub\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.Properties.Resources.resources
+C:\Users\mikeku\Documents\GitHub\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.csproj.GenerateResource.cache
+C:\Users\mikeku\Documents\GitHub\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\mikeku\Documents\GitHub\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.exe
+C:\Users\mikeku\Documents\GitHub\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.pdb
+C:\Users\mikeku\Documents\GitHub\DemoGameWindowsForms\obj\Debug\DemoGameWindowsForms.exe.config

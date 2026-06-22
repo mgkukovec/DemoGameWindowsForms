@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\",
+  "WorkspaceRootPath": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|c:\\users\\mgkuk\\source\\repos\\demogamewindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|c:\\users\\mgkuk\\source\\repos\\demogamewindowsforms\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|solutionrelative:globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|c:\\users\\mgkuk\\source\\repos\\demogamewindowsforms\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|c:\\users\\mgkuk\\source\\repos\\demogamewindowsforms\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|c:\\users\\mgkuk\\source\\repos\\demogamewindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|c:\\users\\mgkuk\\source\\repos\\demogamewindowsforms\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|c:\\users\\mikeku\\documents\\github\\demogamewindowsforms\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|c:\\users\\mgkuk\\source\\repos\\demogamewindowsforms\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|solutionrelative:globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|c:\\users\\mikeku\\documents\\github\\demogamewindowsforms\\gameobjectfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|solutionrelative:gameobjectfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12DAF5A6-A6A1-4059-B588-BA53930F0A20}|DemoGameWindowsForms.csproj|solutionrelative:userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,67 +42,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "GameObjectFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\GameObjectFactory.cs",
+              "RelativeDocumentMoniker": "GameObjectFactory.cs",
+              "ToolTip": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\GameObjectFactory.cs",
+              "RelativeToolTip": "GameObjectFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:50:16.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\GameState.cs",
+              "DocumentMoniker": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\GameState.cs",
               "RelativeDocumentMoniker": "GameState.cs",
-              "ToolTip": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\GameState.cs",
+              "ToolTip": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\GameState.cs",
               "RelativeToolTip": "GameState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T21:21:25.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\Player.cs*",
-              "RelativeToolTip": "Player.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T01:10:34.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "GameObject.cs",
-              "DocumentMoniker": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\GameObject.cs",
               "RelativeDocumentMoniker": "GameObject.cs",
-              "ToolTip": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\GameObject.cs",
+              "ToolTip": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\GameObject.cs",
               "RelativeToolTip": "GameObject.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T01:10:20.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UserInput.cs",
-              "DocumentMoniker": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\UserInput.cs",
+              "DocumentMoniker": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\UserInput.cs",
               "RelativeDocumentMoniker": "UserInput.cs",
-              "ToolTip": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\UserInput.cs",
+              "ToolTip": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\UserInput.cs",
               "RelativeToolTip": "UserInput.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T00:56:37.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T00:56:37.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Globals.cs",
-              "DocumentMoniker": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\Globals.cs",
+              "DocumentMoniker": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\Globals.cs",
               "RelativeDocumentMoniker": "Globals.cs",
-              "ToolTip": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\Globals.cs",
+              "ToolTip": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\Globals.cs",
               "RelativeToolTip": "Globals.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,28 +127,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAWwC0AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T00:54:56.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\mgkuk\\source\\repos\\DemoGameWindowsForms\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\mikeku\\Documents\\GitHub\\DemoGameWindowsForms\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T00:53:43.353Z",
               "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 550,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1483,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1467,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

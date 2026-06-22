@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Drawing;
+using System.IO;
 using System.Windows;
 using System.Windows.Forms;
 
@@ -12,9 +10,18 @@ namespace DemoGameWindowsForms
     {
         public Player(Vector position) : base(position)
         {
-            Speed = 10;
+            Speed = 40;
 
-
+            string projectRoot = Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\.."));
+            string fullImagePath = Path.Combine(projectRoot, "Resources", "Player.png");
+            PictureBox = new PictureBox
+            {
+                Image = Image.FromFile(fullImagePath),
+                SizeMode = PictureBoxSizeMode.AutoSize,
+                BorderStyle = BorderStyle.None,
+                Visible = true,
+                Location = new System.Drawing.Point(10, 10)
+            };
         }
 
         public override void Update(float deltaTime)
@@ -48,8 +55,6 @@ namespace DemoGameWindowsForms
 
         public override void Render()
         {
-
-
             base.Render();
         }
     }
