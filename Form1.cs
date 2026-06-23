@@ -54,5 +54,10 @@ namespace DemoGameWindowsForms
             base.OnPaint(e);
             _game.Render(e.Graphics);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

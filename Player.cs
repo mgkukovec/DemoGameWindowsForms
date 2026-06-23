@@ -8,7 +8,9 @@ namespace DemoGameWindowsForms
 {
     public class Player : GameObject
     {
-        public Player(Vector position) : base(position)
+        public static float ColliderRadius = 60;
+
+        public Player(Vector position) : base(new Circle (position, ColliderRadius))
         {
             Speed = 60;
 

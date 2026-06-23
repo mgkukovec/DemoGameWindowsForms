@@ -21,7 +21,7 @@ namespace DemoGameWindowsForms
             _form = form;
             _factory = new GameObjectFactory(p => _form.Controls.Add(p));
 
-            Player = _factory.CreatePlayer(new System.Windows.Vector(10, 10));
+            Player = _factory.CreatePlayer(new System.Windows.Vector(60, 60));
         }
 
         public void Update(float deltaTime)
